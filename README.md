@@ -1,0 +1,1 @@
+A very simple movie recommender system where the user inputs a movie in the textbox and the program will use machine learning to match it to similar movies and return a list of 30 similar movies. The user can then click movies in the list and seesome information about the movie to the right. 
